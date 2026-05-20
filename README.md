@@ -1,6 +1,6 @@
 # Diabetic-Retinopathy-Detection-using-Machine-Learning
 Diabetic Retinopathy (DR) is a leading cause of preventable blindness worldwide, particularly among working-age adults. Here, ML model applies for detecting the disease early. 
-# Dataset information: Diabetic Retinopathy Debrecen
+# Dataset info
 This dataset contains features extracted from the Messidor image set to predict whether an image contains signs of diabetic retinopathy or not. All features represent either a detected lesion, a descriptive feature of a anatomical part or an image-level descriptor.
 # Variables info
   0) The binary result of quality assessment. 0 = bad quality 1 = sufficient quality.
